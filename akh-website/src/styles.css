@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+/* Global styles for SA TECH website */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e; /* Dark gray background */
+  color: white;
+  margin: 0;
+}
+
+.header, .footer {
+  background-color: #121212; /* Black for header and footer */
+  padding: 10px;
+}
+
+.content {
+  background-color: #333333; /* Dark gray for main content */
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+.tech-style {
+  font-family: 'Roboto', sans-serif;
+  color: #e0e0e0; /* Light gray text */
+}
+
+.btn-tech {
+  background-color: #000000;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-tech:hover {
+  background-color: #333333;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
